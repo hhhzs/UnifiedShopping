@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-b4/CS522FinalProject-b4/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-b4/CS522FinalProject-b4/app/src/main/res/drawable/selector.xml" value="0.192" />
+        <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-b4/CS522FinalProject-b4/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-b4/CS522FinalProject-b4/app/src/main/res/layout/activity_settings.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-b4/CS522FinalProject-b4/app/src/main/res/menu/hidden_list_main_menu.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-b4/CS522FinalProject-b4/app/src/main/res/menu/main_menu.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-b4/CS522FinalProject-b4/app/src/main/res/menu/nav_menu.xml" value="0.264" />
+        <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-b4/CS522FinalProject-b4/app/src/main/res/menu/setting_menu.xml" value="0.18385416666666668" />
         <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-master/CS522FinalProject-master/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.135" />
         <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-master/CS522FinalProject-master/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/qdhuh/Downloads/CS522FinalProject-master/CS522FinalProject-master/app/src/main/res/layout/activity_setting.xml" value="0.23854166666666668" />
